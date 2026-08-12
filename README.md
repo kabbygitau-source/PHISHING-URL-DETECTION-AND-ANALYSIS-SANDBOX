@@ -13,21 +13,66 @@ Git & GitHub
 
 Project Structure
 
-phishing-url-detection-and-analysis-sandbox/
+`
+PHISHING-URL-DETECTION-AND-ANALYSIS-SANDBOX
+                    │
+                    ▼
+                    
+                  app/
+                    │
+                  
+                    ▼
+                    
+             url_analyzer.py
+                    │
+                    ▼
+                    
+             URL Analysis
+                    │
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+     HTTPS      IP Address   Keywords
+      Check        Check       Check
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+                    
+          URL Characteristics
+                    │
+                    ▼
+                    
+              Risk Scoring
+                    │
+                    ▼
+                    
+           Risk Classification
+                    │
+          ┌─────────┼─────────┐
+          ▼         ▼         ▼
+         LOW      MEDIUM      HIGH
+                    │
+                    ▼
+                    
+           Redirect Analysis
+                    │
+                    ▼
+                    
+             Results Display
+                    │
+                    ▼
+                    
+        ┌───────────┼───────────┐
+        ▼           ▼           ▼
+Documentation   Screenshots   Reports
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+                    
+              GitHub Repository
+```
 
-├── app/
 
-│   └── url_analyzer.py
 
-├── documentation/
-
-├── screenshots/
-
-├── reports/
-
-├── sandbox/
-
-└── .gitignore
 Author
 
 Joy Gitau
