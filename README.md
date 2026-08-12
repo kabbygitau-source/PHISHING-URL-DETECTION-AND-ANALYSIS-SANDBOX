@@ -61,6 +61,7 @@ PHISHING-URL-DETECTION-AND-ANALYSIS-SANDBOX
                     │
                     ▼
                     
+                    
         ┌───────────┼───────────┐
         ▼           ▼           ▼
 Documentation   Screenshots   Reports
@@ -68,6 +69,7 @@ Documentation   Screenshots   Reports
         └───────────┼───────────┘
                     ▼
                     
+          
               GitHub Repository
 ```
 
