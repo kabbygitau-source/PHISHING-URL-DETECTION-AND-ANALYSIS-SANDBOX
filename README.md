@@ -65,8 +65,8 @@ PHISHING-URL-DETECTION-AND-ANALYSIS-SANDBOX
         ┌───────────┼───────────┐
         ▼           ▼           ▼
 Documentation   Screenshots   Reports
-        │           │           │
-        └───────────┼───────────┘
+
+                    │ 
                     ▼
                     
           
