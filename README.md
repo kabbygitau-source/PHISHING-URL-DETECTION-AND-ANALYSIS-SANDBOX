@@ -10,7 +10,9 @@ Kali Linux
 Requests Library
 Regular Expressions
 Git & GitHub
+
 Project Structure
+
 phishing-url-detection-and-analysis-sandbox/
 ├── app/
 │   └── url_analyzer.py
